@@ -10,4 +10,14 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+Step 1: Clone the Repository locally on your machine by using git clone (adress)
+
+Step 2: Navigate to the root folder of your Respository
+
+Step 3: Run docker-compose up
+
+Step 4: To test if everything worked visit http://localhost:3000/api/ping and http://localhost:3001/register
+
+Step 5: ???
+
+Step 6: Profit
